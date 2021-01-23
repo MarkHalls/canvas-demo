@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mark-halls/canvas-demo#readme",
   "dependencies": {
-    "@mark-halls/game-of-life-data": "0.0.1",
+    "@mark-halls/game-of-life-data": "0.2.0",
     "normalize.css": "^8.0.1",
     "parcel-bundler": "^1.12.4"
   }
